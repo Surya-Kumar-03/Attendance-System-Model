@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar/navbar";
 import Content from "./components/Content/content";
+import 'animate.css';
 
 function App() {
   return (
